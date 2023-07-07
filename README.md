@@ -5,6 +5,8 @@
 
 > asynchronous cross platform process spawning
 
+![](assets/async-cross-spawn.png)
+
 ## Features
 
 - windows support
